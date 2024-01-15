@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/swaroopa0204/My-Portfolio/static/css/main.91510766.css",
-    "main.js": "/swaroopa0204/My-Portfolio/static/js/main.a60bc509.js",
-    "static/css/64.bba8fa55.chunk.css": "/swaroopa0204/My-Portfolio/static/css/64.bba8fa55.chunk.css",
-    "static/js/64.98920275.chunk.js": "/swaroopa0204/My-Portfolio/static/js/64.98920275.chunk.js",
-    "static/css/769.b3cbb36b.chunk.css": "/swaroopa0204/My-Portfolio/static/css/769.b3cbb36b.chunk.css",
-    "static/js/769.88165ab4.chunk.js": "/swaroopa0204/My-Portfolio/static/js/769.88165ab4.chunk.js",
-    "static/media/Montserrat-Regular.ttf": "/swaroopa0204/My-Portfolio/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
-    "static/media/texas a&m logo.png": "/swaroopa0204/My-Portfolio/static/media/texas a&m logo.e172a2995a351d168cb4.png",
-    "static/media/Agustina.woff": "/swaroopa0204/My-Portfolio/static/media/Agustina.eb0c59dda4cc308cba96.woff",
-    "static/media/manOnTable.svg": "/swaroopa0204/My-Portfolio/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
-    "static/media/Valuelabs.png": "/swaroopa0204/My-Portfolio/static/media/Valuelabs.a6a3665268ac440e0982.png",
-    "static/media/contactMailDark.svg": "/swaroopa0204/My-Portfolio/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
-    "static/media/developerActivity.svg": "/swaroopa0204/My-Portfolio/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
-    "static/media/skill.svg": "/swaroopa0204/My-Portfolio/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
-    "index.html": "/swaroopa0204/My-Portfolio/index.html",
-    "main.91510766.css.map": "/swaroopa0204/My-Portfolio/static/css/main.91510766.css.map",
-    "main.a60bc509.js.map": "/swaroopa0204/My-Portfolio/static/js/main.a60bc509.js.map",
-    "64.bba8fa55.chunk.css.map": "/swaroopa0204/My-Portfolio/static/css/64.bba8fa55.chunk.css.map",
-    "64.98920275.chunk.js.map": "/swaroopa0204/My-Portfolio/static/js/64.98920275.chunk.js.map",
-    "769.b3cbb36b.chunk.css.map": "/swaroopa0204/My-Portfolio/static/css/769.b3cbb36b.chunk.css.map",
-    "769.88165ab4.chunk.js.map": "/swaroopa0204/My-Portfolio/static/js/769.88165ab4.chunk.js.map"
+    "main.css": "/My-Portfolio/static/css/main.516a6103.css",
+    "main.js": "/My-Portfolio/static/js/main.7e6743f0.js",
+    "static/css/64.bba8fa55.chunk.css": "/My-Portfolio/static/css/64.bba8fa55.chunk.css",
+    "static/js/64.98920275.chunk.js": "/My-Portfolio/static/js/64.98920275.chunk.js",
+    "static/css/769.b3cbb36b.chunk.css": "/My-Portfolio/static/css/769.b3cbb36b.chunk.css",
+    "static/js/769.88165ab4.chunk.js": "/My-Portfolio/static/js/769.88165ab4.chunk.js",
+    "static/media/Montserrat-Regular.ttf": "/My-Portfolio/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/texas a&m logo.png": "/My-Portfolio/static/media/texas a&m logo.e172a2995a351d168cb4.png",
+    "static/media/Agustina.woff": "/My-Portfolio/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/manOnTable.svg": "/My-Portfolio/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
+    "static/media/Valuelabs.png": "/My-Portfolio/static/media/Valuelabs.a6a3665268ac440e0982.png",
+    "static/media/contactMailDark.svg": "/My-Portfolio/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
+    "static/media/developerActivity.svg": "/My-Portfolio/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
+    "static/media/skill.svg": "/My-Portfolio/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
+    "index.html": "/My-Portfolio/index.html",
+    "main.516a6103.css.map": "/My-Portfolio/static/css/main.516a6103.css.map",
+    "main.7e6743f0.js.map": "/My-Portfolio/static/js/main.7e6743f0.js.map",
+    "64.bba8fa55.chunk.css.map": "/My-Portfolio/static/css/64.bba8fa55.chunk.css.map",
+    "64.98920275.chunk.js.map": "/My-Portfolio/static/js/64.98920275.chunk.js.map",
+    "769.b3cbb36b.chunk.css.map": "/My-Portfolio/static/css/769.b3cbb36b.chunk.css.map",
+    "769.88165ab4.chunk.js.map": "/My-Portfolio/static/js/769.88165ab4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.91510766.css",
-    "static/js/main.a60bc509.js"
+    "static/css/main.516a6103.css",
+    "static/js/main.7e6743f0.js"
   ]
 }
