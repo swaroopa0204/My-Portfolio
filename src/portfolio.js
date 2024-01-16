@@ -25,8 +25,7 @@ const greeting = {
   subTitle: emoji(
     "A passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks."
   ),
-  resumeLink:
-    "https://docs.google.com/document/d/1c6xUOzITSXO3Z_BfjFWBHV0TJz1x7LbL/edit?usp=sharing&ouid=117609714018131996711&rtpof=true&sd=true", // Set to empty to hide the button
+  resumeLink: "https://docs.google.com/document/d/1HvekC92nHYg40TQ524TOT0xwKts-ZX2r/edit?usp=drive_link&ouid=117609714018131996711&rtpof=true&sd=true",
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
